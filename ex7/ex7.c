@@ -3,6 +3,7 @@
 #include"max.h"
 
 int main(void){
+	
 	double a,b;
 	scanf("%lf",&a);
 	scanf("%lf",&b);

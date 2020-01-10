@@ -1,6 +1,6 @@
 double max(double n,double m){
       if(n>m)
-	     return n;
+	      return n;
 	  else
-         return m;
+          return m;
 }		 
