@@ -3,6 +3,13 @@
 int main(void){
 	char banc[10] = "ABCD";
 	char *pb;
+	int a[4]={1,2,3,4};
+	
+	printf("%p\n",a);
+	printf("%p\n",&a);
+	printf("%p\n",a+1);
+	printf("%p\n",&a+1);
+	
 	
 	pb = "hello";
 	printf("%p\n",pb);
